@@ -1,0 +1,259 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(6, 7, 7, 0);
+}
+.hed2{
+    display: inline;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-left: 175px;
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 50px;
+
+
+  
+
+}
+.hed2:hover{
+    font-size: 25px;
+    background-color:gray ;
+
+}
+.hed2 a{
+    color: aliceblue;
+    text-decoration: none;
+    
+    
+
+}
+.hed1{
+    background-color:rgba(0, 0, 0, 0.774);
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    padding: 5px 16px !important;
+
+
+}
+.heder0{
+    margin-top: 80px;
+    width: 100%;
+    height:600px ;
+    background-image: url(/imges/backery-fresh-bread-dark-wood-background_1284-6737.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h1{
+    margin: 50px;
+    color: aliceblue;
+    font-size: 80px;
+    font-weight: bolder;
+    font-style: italic;
+    text-transform: capitalize;
+}
+h1:hover{
+    color: bisque;
+}
+
+.v122{
+
+    /* border: 5px solid red; */
+    width: 70%;
+    height: 800px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+ 
+   
+}
+
+ .v123{
+    font-size: 40;
+    font-weight: bolder;
+    text-transform: capitalize;
+    width: 20%;
+    margin: auto;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+   
+}
+.v111{
+    width: 70%;
+    margin: auto;
+    height: 200px;
+    text-align: center;
+    font-size: 20px;
+ 
+   
+} 
+.v11 img {
+    width: 700px;
+    height: 400px;
+}
+.v11 div p{
+    font-size: 20px;
+}
+.a122{
+     /* border: 5px solid red; */
+     width: 70%;
+     height: 500px;
+     margin: auto;
+     text-align: center;
+     margin-top: 20px;
+  
+}
+.a122 h2{
+    font-size: 40;
+    font-weight: bolder;
+    text-transform: capitalize;
+    width: 20%;
+    margin: auto;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+}
+.a122 h3{
+    font-size: 20px;
+}
+.z11 h2{
+    font-size: 40;
+    font-weight: bolder;
+    text-transform: capitalize;
+    width: 20%;
+    margin: auto;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+}
+.z123 {
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+.z123 img{
+    width: 400px;
+    height: 300px;
+}
+.z122{
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px; 
+}
+.z122 img{
+    width: 400px;
+    height: 300px;
+}
+.z124{
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px; 
+}
+.z124 img {
+    width: 400px;
+    height: 300px;
+}
+.z11 img:hover{
+
+    width: 450px;
+    height: 320px;
+
+}
+.q1 h2{
+    font-size: 40;
+    font-weight: bolder;
+    text-transform: capitalize;
+    width: 20%;
+    
+    margin: auto;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+
+}
+.q2{
+    width: 70%;
+    margin: auto;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.q4{
+    text-align: center;
+}
+.q1 img{
+    width: 70%;
+    height: 500px;
+}
+.q8{
+    width: 70%;
+    margin: auto;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.e7{
+        /* border: 5px solid red; */
+        width: 20%;
+        height: 300px;
+        margin: auto;
+        /* text-align: center; */
+        margin-top: 20px;
+     
+}
+
+
+
+
+input{
+    display: block;
+    font-size: 20px;
+    margin: 20px;
+}
+.f2{
+    font-size: 40;
+    font-weight: bolder;
+    text-transform: capitalize;
+    width: 20%;
+    
+    margin: auto;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+}
+footer div{
+    width: 20%;
+    margin: auto;
+    
+}
+footer div a{
+    /* display: inline-block; */
+    color:black;
+    text-decoration: none;
+    /* font-size: 40; */
+    /* font-weight: bolder; */
+    /* text-transform: capitalize; */
+    width: 20%;
+    
+    margin: auto;
+    /* color: aliceblue; */
+    text-align: center;
+    padding: 40px;
+    /* background-color: black; */
+}
